@@ -1,29 +1,17 @@
 +++
-title = "About Hugo"
+title = "Questions?"
 slug = "questions"
 +++
 
-Hugo is a static site engine written in Go.
+{{<figure src="images/shirt.png" >}}
 
+#### General Prom Inquiries
 
-It makes use of a variety of open source projects including:
+* Dan [dan.oved@nyu.edu](mailto:dan.oved@nyu.edu)
+* Ilana [ilanabonder@nyu.edu](ilanabonder@nyu.edu)
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+#### Want to volunteer? Actually, please send help!
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+**Disc Jockeys (DJs)** Brandon [bn815@nyu.edu](mailto:bn815@nyu.edu)
 
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+**Video Jockeys (VJs)** Mai [mn910@nyu.edu](mailto:mn910@nyu.edu)

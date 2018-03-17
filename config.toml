@@ -33,7 +33,7 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
     name = "Promposal Contest"
     weight = 3
-    url = "/promposal_contest/"
+    url = "/promposal/"
 [[params.social]]
     name = "Questions?"
     weight = 4
@@ -50,7 +50,7 @@ pygmentscodefencesguesssyntax = true
 [[menu.main]]
     name = "Promposal Contest"
     weight = 3
-    url = "/promposal_contest/"
+    url = "/promposal/"
 [[menu.main]]
     name = "Questions?"
     weight = 4
