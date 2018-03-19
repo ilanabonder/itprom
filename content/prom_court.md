@@ -14,4 +14,4 @@ The top two votes will be announced as one of our main festivies at ITProm.
 1. You may only vote once 
 2. Vote for Second Years only 
 
-https://goo.gl/forms/Hdh9vRlRez5v4fgu1
+https://goo.gl/forms/rMLi3rErbh5hZbms2
