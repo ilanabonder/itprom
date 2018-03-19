@@ -16,7 +16,7 @@ The Basement @ Louie and Chan
 Outer Space. AKA TODO: fill in 
 
 #### What should I wear?
-Alien onesies, space-suits, blinky things, TODO: complete. Actually, this is the night where you can wear something nice. Shower, brush your hair, wear dry socks... That kinda stuff.
+Travel through Space and be the Future... Wear space-suits, cosmic creatures, onesies, video game characters, galaxies, latex, neon colors, glow in the dark, futuristic fabulous, blinky things. Actually, this is the night where you can wear something nice. Shower, brush your hair, wear dry socks... That kinda stuff.
 
 #### Do I need tickets?
 Unfortunately, yes. The cost of tickets is to book out the venue exclusively and to serve dinner.

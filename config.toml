@@ -27,16 +27,20 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "/information"
 [[params.social]]
-    name = "Prom Court"
+    name = "Location"
     weight = 2
+    url = "/location/"
+[[params.social]]
+    name = "Prom Court"
+    weight = 3
     url = "/prom_court"
 [[params.social]]
     name = "Promposal Contest"
-    weight = 3
+    weight = 4
     url = "/promposal/"
 [[params.social]]
     name = "Questions?"
-    weight = 4
+    weight = 5
     url = "/questions/"
 
 [[menu.main]]
@@ -44,14 +48,18 @@ pygmentscodefencesguesssyntax = true
     weight = 1
     url = "/information"
 [[menu.main]]
-    name = "Prom Court"
+    name = "Location"
     weight = 2
+    url = "/location"
+[[menu.main]]
+    name = "Prom Court"
+    weight = 3
     url = "/prom_court"
 [[menu.main]]
     name = "Promposal Contest"
-    weight = 3
+    weight = 4
     url = "/promposal/"
 [[menu.main]]
     name = "Questions?"
-    weight = 4
+    weight = 5
     url = "/questions/"

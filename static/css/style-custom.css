@@ -5,3 +5,39 @@ figure {
 h1, h2, h3, h4, h5, h6, .navigation a {
   text-transform: capitalize;
 }
+
+
+@media only screen and (max-width: 1040px) {
+  .navigation {
+    height: auto;
+
+  }
+  .navigation a {
+    line-height: 1.2rem;
+  }
+  nav .container {
+    flex: 1;
+  }
+
+  ul.navigation-list {
+    float: none;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+  }
+  ul.navigation-list li {
+    float: none;
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+  }
+
+  .navigation ul li a {
+    margin-left: 0;
+  }
+
+  .content {
+    margin-top: 0;
+  }
+}
