@@ -13,7 +13,7 @@ The Basement @ Louie and Chan
 303 Broome St, New York, NY 10002
 
 #### Theme
-Outer Space. AKA TODO: fill in 
+Outer Space. AKA magical adventure through the galaxy, colonization of Mars.
 
 #### What should I wear?
 Travel through Space and be the Future... Wear space-suits, cosmic creatures, onesies, video game characters, galaxies, latex, neon colors, glow in the dark, futuristic fabulous, blinky things. Actually, this is the night where you can wear something nice. Shower, brush your hair, wear dry socks... That kinda stuff.

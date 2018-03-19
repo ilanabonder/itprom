@@ -3,7 +3,7 @@ title = "Prom Court"
 slug = "prom_court"
 +++
 
-![Prom Court](/images/surfing_space.gif)
+![Prom Court](/images/sloth_space.gif)
 
 Each year at ITProm, the student body votes on one of our fellow peers to receive the Prom Court Crown. 
 Dum dum dum! You have until 11:59 PM on March 28th to cast your vote! 

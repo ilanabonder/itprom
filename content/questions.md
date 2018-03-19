@@ -3,7 +3,7 @@ title = "Questions?"
 slug = "questions"
 +++
 
-{{<figure src="images/shirt.png" >}}
+{{<figure src="images/no_idea.gif" >}}
 
 #### General Prom Inquiries
 
@@ -12,6 +12,8 @@ slug = "questions"
 
 #### Want to volunteer? Actually, please send help!
 
-**Disc Jockeys (DJs)** Brandon [bn815@nyu.edu](mailto:bn815@nyu.edu)
+**Disc Jockeys (DJs)**<br/>
+Brandon [bn815@nyu.edu](mailto:bn815@nyu.edu)
 
-**Video Jockeys (VJs)** Mai [mn910@nyu.edu](mailto:mn910@nyu.edu)
+**Video Jockeys (VJs)**<br/>
+Mai [mn910@nyu.edu](mailto:mn910@nyu.edu)

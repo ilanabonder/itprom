@@ -1,4 +1,4 @@
-baseurl = "https://itprom.netlify.com/"
+baseurl = "http://www.itprom.space/"
 title = "ITProm 2018 - Outer Space"
 
 theme = "coder"
