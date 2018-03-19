@@ -1,5 +1,10 @@
 <section class="container centered">
   <div class="about">
-    <a href='/information'><img src='/images/itp_outer_space.gif' style='width: 80%'/></a>
+    <img class='lazy-load' src='/images/itprom.png' data-animated='/images/itp_outer_space.gif' style='width: 80%'/>
+    <ul>
+      {{ range sort .Site.Params.social }}
+      <li><a href="{{ .url }}">{{ .name }}</a></li>
+      {{ end }}
+    </ul>
   </div>
 </section>
