@@ -18,8 +18,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "ITProm 2018"
-    description = "John Doe's personal website"
-    keywords = "blog,developer,personal"
+    description = "ITProm 2018 - Outer Space"
     info = "Outer Space"
 
 [[params.social]]
