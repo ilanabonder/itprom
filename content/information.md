@@ -22,7 +22,7 @@ Travel through Space and be the Future... Wear space-suits, cosmic creatures, on
 Unfortunately, yes. The cost of tickets is to book out the venue exclusively and to serve dinner.
 
 #### How much are they?
-Pre-sale tickets are $15 and tickets at the door are $20. So buy them early! Pre-sale tickets end on Tuesday, Marh 27th at 11:59 PM.
+Pre-sale tickets are $15 and tickets at the door are $20. So buy them early! Pre-sale tickets end on Tuesday, March 27th at 11:59 PM.
 
 #### How do I buy them?
 Find Dan or Ilana anytime on the floor! Remember that pre-sale tickets for $15 will on Tuesday March 27th! After that, tickets will increase to $20. Cash or Venmo to @dan-oved. If you're going to use Venmo, you must state "ITProm", your full name, and the number of tickets you are purchasing in the description. If you don't do this, we are just going to take your money to buy ourselves beer.
