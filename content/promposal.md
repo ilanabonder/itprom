@@ -3,23 +3,24 @@ title = "Promposal Contest"
 slug = "promposal"
 +++
 
-Want free tickets to this years ITProm?  Propose to your date, and email documentation to
-Dan [dan.oved@nyu.edu](mailto:dan.oved@nyu.edu) and Ilana [ilanabonder@nyu.edu](ilanabonder@nyu.edu).
-The best promposals will win free tickets to this years prom. Winners will be announced by midnight, Tuesday, March 27th.
+### Update - this years winners!
 
-#### Some inspiration from last year
-
-2017 *We Love Dogs* Category Winners: **Lindsey and Rita**
-
-<video width="640" height="480" controls="">
-    <source src='videos/lindseyAndRita.mp4' />
-</video>
-
-2017 *We Don't Know What Category This is Supposed to Be* Category Winners: **Alex and Akmyrat**
+*This makes no sense at all/most adorable promposal* category winners: **Regina and Rushali!**
 
 <video width="640" height="360" controls="">
-    <source src='videos/alexAndAkmyrat.mov' />
+    <source src='videos/rushaliAndRegina.mov' />
 </video>
 
+<br/>
 
+*We used this contest as an excuse to make this tasty pie* category winners: **Lindsey and Rita!**
+
+{{< youtube lO3P3B7Gb1o >}}
+
+<br/>
+The *Towers of ITPrompowerosal* category winners: **Simon and Aiden!**
+
+<video width="640" height="360" controls="">
+    <source src='videos/simonAndAiden.mov' />
+</video>
 
